@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FootballLib\FootballLib.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -6,7 +6,9 @@ namespace FootballLib
     {
         public Team TeamA { get; set; }
         public Team TeamB { get; set; }
-        public DateTime date { get; set; }
-        public Location location { get; set; }
+        public DateTime Date { get; set; }
+        public Location Location { get; set; }
+        public string Tag { get; set; }
+        
     }
 }

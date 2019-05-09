@@ -6,5 +6,6 @@ namespace FootballLib
 {
     public class Location
     {
+        public string Address { get; set; }
     }
 }

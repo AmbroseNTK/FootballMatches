@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FootballLib;
 using System.Collections.Generic;
 
-namespace FootballMatchesTest
+namespace FootballMatchesTest.Structure
 {
     [TestClass]
     public class TestMatches
