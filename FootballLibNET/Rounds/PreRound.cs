@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FootballMatches
+namespace FootballLib.Rounds
 {
-    class Program
+    public class PreRound : Round
     {
-        static void Main(string[] args)
+        public override List<Team> Play()
         {
+            return new List<Team>();
         }
     }
 }

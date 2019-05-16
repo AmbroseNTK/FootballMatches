@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28729.10
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatches", "FootballMatches\FootballMatches.csproj", "{F157104F-0E07-4071-9C4B-A88CE09CB1FA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatchesTest", "FootballMatchesTest\FootballMatchesTest.csproj", "{820C56E8-4135-4FEB-9D81-8C0444A623C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLib", "FootballLib\FootballLib.csproj", "{354A2775-7D7B-432C-A0D8-496EB171F5C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLib", "FootballLibNET\FootballLib.csproj", "{EE4C4386-A22F-4B3D-8B87-4238F0545706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatches", "FootballMatches\FootballMatches.csproj", "{AD6FDB8A-3313-40EA-8802-047D9C3F4902}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C15AFFD4-CBEB-4E55-8134-5603F97185E6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Countries-master\Countries-master\data\json-processing\countries.txt = ..\..\..\Downloads\Countries-master\Countries-master\data\json-processing\countries.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +20,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F157104F-0E07-4071-9C4B-A88CE09CB1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F157104F-0E07-4071-9C4B-A88CE09CB1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F157104F-0E07-4071-9C4B-A88CE09CB1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F157104F-0E07-4071-9C4B-A88CE09CB1FA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{820C56E8-4135-4FEB-9D81-8C0444A623C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{820C56E8-4135-4FEB-9D81-8C0444A623C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820C56E8-4135-4FEB-9D81-8C0444A623C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820C56E8-4135-4FEB-9D81-8C0444A623C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{354A2775-7D7B-432C-A0D8-496EB171F5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{354A2775-7D7B-432C-A0D8-496EB171F5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{354A2775-7D7B-432C-A0D8-496EB171F5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{354A2775-7D7B-432C-A0D8-496EB171F5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4C4386-A22F-4B3D-8B87-4238F0545706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4C4386-A22F-4B3D-8B87-4238F0545706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4C4386-A22F-4B3D-8B87-4238F0545706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4C4386-A22F-4B3D-8B87-4238F0545706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6FDB8A-3313-40EA-8802-047D9C3F4902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6FDB8A-3313-40EA-8802-047D9C3F4902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6FDB8A-3313-40EA-8802-047D9C3F4902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6FDB8A-3313-40EA-8802-047D9C3F4902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

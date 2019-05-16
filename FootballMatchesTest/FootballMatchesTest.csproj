@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\TestArea.cs" />
-    <Compile Include="Business\TestPlayOff.cs" />
+    <Compile Include="Business\TestPreRound.cs" />
     <Compile Include="Structure\TestMatches.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,12 +59,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FootballLib\FootballLib.csproj">
-      <Project>{354a2775-7d7b-432c-a0d8-496eb171f5c3}</Project>
+    <ProjectReference Include="..\FootballLibNET\FootballLib.csproj">
+      <Project>{ee4c4386-a22f-4b3d-8b87-4238f0545706}</Project>
       <Name>FootballLib</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

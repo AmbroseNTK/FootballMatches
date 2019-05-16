@@ -42,5 +42,10 @@ namespace FootballMatchesTest.Business
         {
             Assert.AreEqual(true, AreaUtil.GetRateFromArea(Area.Oceania) == 0.5d);
         }
+        [TestMethod]
+        public void GetAreaFromString()
+        {
+            Assert.AreEqual(AreaUtil.GetAreaFromString("Asia"), Area.Asia);
+        }
     }
 }

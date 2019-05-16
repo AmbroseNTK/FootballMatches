@@ -27,10 +27,6 @@ namespace FootballLib
 
         private Team championship;
         
-        public List<Team> GenerateInputTeam()
-        {
-            return null;
-        }
 
         public void Play()
         {
