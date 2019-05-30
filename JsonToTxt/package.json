@@ -1,0 +1,9 @@
+{
+  "name": "json-to-txt",
+  "version": "0.0.0",
+  "description": "JsonToTxt",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

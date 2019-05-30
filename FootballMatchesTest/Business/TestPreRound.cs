@@ -15,7 +15,7 @@ namespace FootballMatchesTest.Business
         private static List<Team> GetPreRoundResult()
         {
             WorldCup worldCup = new WorldCup();
-            worldCup.TeamProvider = new FootballLib.DataProviders.TextProvider("test.txt");
+            worldCup.TeamProvider = new FootballLib.DataProviders.TextProvider("countries.txt");
             FootballLib.Rounds.PreRound preRound = new FootballLib.Rounds.PreRound();
             preRound.InputTeams = worldCup.TeamList;
             List<Team> result = preRound.Play();
@@ -27,17 +27,15 @@ namespace FootballMatchesTest.Business
         {
             List<Team> result = GetPreRoundResult();
 
-            Assert.AreEqual(result.Count, 32);
+            Assert.AreEqual(32,result.Count);
         }
 
         [TestMethod]
         public void AsiaHas5To6Team()
         {
-
             List<Team> result = GetPreRoundResult();
-
             int countAsia = result.Where((team) => team.Area == Area.Asia).ToList().Count;
-            Assert.AreEqual(countAsia > 4 && countAsia < 7, true);
+            Assert.AreEqual(true,countAsia > 4 && countAsia < 7);
          }
         
     }

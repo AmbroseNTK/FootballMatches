@@ -51,6 +51,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\TestArea.cs" />
+    <Compile Include="Business\TestOctRound.cs" />
+    <Compile Include="Business\TestPlayOff.cs" />
     <Compile Include="Business\TestPreRound.cs" />
     <Compile Include="Structure\TestMatches.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,6 +65,11 @@
       <Project>{ee4c4386-a22f-4b3d-8b87-4238f0545706}</Project>
       <Name>FootballLib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="countries.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

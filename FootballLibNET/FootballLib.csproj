@@ -46,14 +46,20 @@
     <Compile Include="Location.cs" />
     <Compile Include="Match.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rounds\FinalRound.cs" />
+    <Compile Include="Rounds\OctRound.cs" />
     <Compile Include="Rounds\PlayOff.cs" />
     <Compile Include="Rounds\PreRound.cs" />
+    <Compile Include="Rounds\QuadRound.cs" />
     <Compile Include="Rounds\Round.cs" />
     <Compile Include="Team.cs" />
     <Compile Include="WorldCup.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="countries.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="countries.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

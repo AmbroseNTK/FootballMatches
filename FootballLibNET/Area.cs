@@ -18,7 +18,22 @@ namespace FootballLib
       
         public static Area GetAreaFromString(string areaName)
         {
-            return (Area)(Enum.Parse(typeof(Area), areaName));
+            switch (areaName)
+            {
+                case "Asia":
+                    return Area.Asia;
+                case "Africa":
+                    return Area.Africa;
+                case "Europe":
+                    return Area.Europe;
+                case "NorthAmerica":
+                    return Area.NorthAmerica;
+                case "SouthAmerica":
+                    return Area.SouthAmerica;
+                case "Oceania":
+                    return Area.Oceania;
+            }
+            return Area.Asia;
         }
         public static double GetRateFromArea(Area area)
         {
