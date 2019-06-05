@@ -10,7 +10,7 @@ AQ;Antarctica;
 AR;Argentina;SouthAmerica
 AS;American Samoa;Oceania
 AT;Austria;Europe
-AU;Australia;Oceania
+AU;Australia;Asia
 AW;Aruba;NorthAmerica
 AX;Åland;Europe
 AZ;Azerbaijan;Asia
@@ -74,7 +74,7 @@ FM;Micronesia;Oceania
 FO;Faroe Islands;Europe
 FR;France;Europe
 GA;Gabon;Africa
-GB;United Kingdom;Europe
+GB;England;Europe
 GD;Grenada;NorthAmerica
 GE;Georgia;Asia
 GF;French Guiana;SouthAmerica
@@ -119,7 +119,7 @@ KI;Kiribati;Oceania
 KM;Comoros;Africa
 KN;Saint Kitts and Nevis;NorthAmerica
 KP;North Korea;Asia
-KR;South Korea;Asia
+KR;Korea Republic;Asia
 KW;Kuwait;Asia
 KY;Cayman Islands;NorthAmerica
 KZ;Kazakhstan;Asia

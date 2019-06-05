@@ -1,0 +1,734 @@
+Pedro GALLESE;Peru;Goalkeeper
+Alberto RODRIGUEZ;Peru;Defender
+Aldo CORZO;Peru;Defender
+Anderson SANTAMARIA;Peru;Defender
+Miguel ARAUJO;Peru;Defender
+Miguel TRAUCO;Peru;Defender
+Paolo HURTADO;Peru;Midfielder
+Christian CUEVA;Peru;Midfielder
+Paolo GUERRERO;Peru;Forward
+Jefferson FARFAN;Peru;Forward
+Raul RUIDIAZ;Peru;Forward
+Carlos CACEDA;Peru;Goalkeeper
+Renato TAPIA;Peru;Midfielder
+Andy POLO;Peru;Midfielder
+Christian RAMOS;Peru;Defender
+Wilder CARTAGENA;Peru;Midfielder
+Luis ADVINCULA;Peru;Defender
+Andre CARRILLO;Peru;Forward
+Yoshimar YOTUN;Peru;Midfielder
+Edison FLORES;Peru;Forward
+Jose CARVALLO;Peru;Goalkeeper
+Nilson LOYOLA;Peru;Defender
+Pedro AQUINO;Peru;Midfielder
+Yassine BOUNOU;Morocco;Goalkeeper
+Achraf HAKIMI;Morocco;Defender
+Hamza MENDYL;Morocco;Defender
+MANUEL DA COSTA;Morocco;Defender
+Mehdi BENATIA;Morocco;Defender
+Romain SAISS;Morocco;Defender
+Hakim ZIYECH;Morocco;Midfielder
+Karim EL AHMADI;Morocco;Midfielder
+Ayoub EL KAABI;Morocco;Forward
+Younes BELHANDA;Morocco;Midfielder
+Faycal FAJR;Morocco;Midfielder
+Monir EL KAJOUI;Morocco;Goalkeeper
+Khalid BOUTAIB;Morocco;Forward
+Mbark BOUSSOUFA;Morocco;Midfielder
+Youssef AIT BENNASSER;Morocco;Midfielder
+Noureddine AMRABAT;Morocco;Midfielder
+Nabil DIRAR;Morocco;Defender
+Amine HARIT;Morocco;Midfielder
+Youssef EN NESYRI;Morocco;Forward
+Aziz BOUHADDOUZ;Morocco;Forward
+Sofyan AMRABAT;Morocco;Midfielder
+Ahmed TAGNAOUTI;Morocco;Goalkeeper
+Mehdi CARCELA;Morocco;Midfielder
+Essam EL HADARY;Egypt;Goalkeeper
+Ali GABR;Egypt;Defender
+AHMED ELMOHAMADY;Egypt;Defender
+OMAR GABER;Egypt;Midfielder
+SAM MORSY;Egypt;Midfielder
+AHMED HEGAZY;Egypt;Defender
+AHMED FATHI;Egypt;Defender
+Tarek HAMED;Egypt;Midfielder
+Marwan MOHSEN;Egypt;Forward
+MOHAMED SALAH;Egypt;Forward
+MAHMOUD KAHRABA;Egypt;Forward
+Ayman ASHRAF;Egypt;Defender
+MOHAMED ABDEL SHAFI;Egypt;Defender
+Ramadan SOBHI;Egypt;Forward
+MAHMOUD HAMDY;Egypt;Defender
+Sherif EKRAMY;Egypt;Goalkeeper
+Mohamed EL NENY;Egypt;Midfielder
+Mahmoud ABDELRAZEK;Egypt;Forward
+ABDALLA SAID;Egypt;Midfielder
+SAMIR SAAD;Egypt;Defender
+TREZEGET;Egypt;Midfielder
+Amr WARDA;Egypt;Forward
+MOHAMED ELSHENAWY;Egypt;Goalkeeper
+Ali BEIRANVAND;Iran;Goalkeeper
+Mehdi TORABI;Iran;Midfielder
+Ehsan HAJI SAFI;Iran;Defender
+Roozbeh CHESHMI;Iran;Defender
+Milad MOHAMMADI;Iran;Defender
+Saeid EZATOLAHI;Iran;Midfielder
+Masoud SHOJAEI;Iran;Midfielder
+Morteza POURALIGANJI;Iran;Defender
+Omid EBRAHIMI;Iran;Midfielder
+Karim ANSARIFARD;Iran;Forward
+Vahid AMIRI;Iran;Midfielder
+Mohammad MAZAHERI;Iran;Goalkeeper
+Mohammad Reza KHANZADEH;Iran;Defender
+Saman GHODDOS;Iran;Forward
+Pejman MONTAZERI;Iran;Defender
+Reza GHOOCHANNEJAD;Iran;Forward
+Mehdi TAREMI;Iran;Forward
+Alireza JAHAN BAKHSH;Iran;Forward
+Majid HOSSEINI;Iran;Defender
+Sardar AZMOUN;Iran;Forward
+Ashkan DEJAGAH;Iran;Forward
+Amir ABEDZADEH;Iran;Goalkeeper
+Ramin REZAEIAN;Iran;Defender
+Jose CORONA;Mexico;Goalkeeper
+Hugo AYALA;Mexico;Defender
+Carlos SALCEDO;Mexico;Defender
+Rafael MARQUEZ;Mexico;Defender
+Erick GUTIERREZ;Mexico;Midfielder
+Jonathan DOS SANTOS;Mexico;Midfielder
+Miguel LAYUN;Mexico;Midfielder
+Marco FABIAN;Mexico;Forward
+Raul JIMENEZ;Mexico;Forward
+Giovani DOS SANTOS;Mexico;Midfielder
+Carlos VELA;Mexico;Forward
+Alfredo TALAVERA;Mexico;Goalkeeper
+Guillermo OCHOA;Mexico;Goalkeeper
+Javier HERNANDEZ;Mexico;Forward
+Hector MORENO;Mexico;Defender
+Hector HERRERA;Mexico;Defender
+Jesus CORONA;Mexico;Midfielder
+Andres GUARDADO;Mexico;Midfielder
+Oribe PERALTA;Mexico;Forward
+Javier AQUINO;Mexico;Midfielder
+Edson ALVAREZ;Mexico;Defender
+Hirving LOZANO;Mexico;Forward
+Jesus GALLARDO;Mexico;Midfielder
+ABDULLAH ALMUAIOUF;Saudi Arabia;Goalkeeper
+MANSOUR ALHARBI;Saudi Arabia;Defender
+OSAMA HAWSAWI;Saudi Arabia;Defender
+ALI ALBULAYHI;Saudi Arabia;Defender
+OMAR OTHMAN;Saudi Arabia;Defender
+MOHAMMED ALBURAYK;Saudi Arabia;Defender
+SALMAN AL FARAJ;Saudi Arabia;Midfielder
+YAHIA ALSHEHRI;Saudi Arabia;Midfielder
+HATAN BAHBRI;Saudi Arabia;Midfielder
+MOHAMMED AL SAHLAWI;Saudi Arabia;Forward
+ABDULMALEK AL KHAIBRI;Saudi Arabia;Midfielder
+MOHAMED KANNO;Saudi Arabia;Midfielder
+YASIR AL SHAHRANI;Saudi Arabia;Defender
+ABDULLAH OTAYF;Saudi Arabia;Midfielder
+ABDULLAH ALKHAIBARI;Saudi Arabia;Midfielder
+HUSSAIN AL MOQAHWI;Saudi Arabia;Midfielder
+TAISEER AL JASSAM;Saudi Arabia;Midfielder
+SALEM AL DAWSARI;Saudi Arabia;Midfielder
+FAHAD AL MUWALLAD;Saudi Arabia;Forward
+MUHANNAD ABU RADIYAH;Saudi Arabia;Forward
+YASSER AL MOSAILEM;Saudi Arabia;Goalkeeper
+MOHAMMED ALOWAIS;Saudi Arabia;Goalkeeper
+MOTAZ HAWSAWI;Saudi Arabia;Defender
+Robin OLSEN;Sweden;Goalkeeper
+Mikael LUSTIG;Sweden;Defender
+Victor LINDELOF;Sweden;Defender
+Andreas GRANQVIST;Sweden;Defender
+Martin OLSSON;Sweden;Defender
+Ludwig AUGUSTINSSON;Sweden;Defender
+Sebastian LARSSON;Sweden;Midfielder
+Albin EKDAL;Sweden;Midfielder
+Marcus BERG;Sweden;Forward
+Emil FORSBERG;Sweden;Midfielder
+John GUIDETTI;Sweden;Forward
+Karl-Johan JOHNSSON;Sweden;Goalkeeper
+Gustav SVENSSON;Sweden;Midfielder
+Filip HELANDER;Sweden;Defender
+Oscar HILJEMARK;Sweden;Midfielder
+Emil KRAFTH;Sweden;Defender
+Viktor CLAESSON;Sweden;Midfielder
+Pontus JANSSON;Sweden;Defender
+Marcus ROHDEN;Sweden;Midfielder
+Ola TOIVONEN;Sweden;Forward
+Jimmy DURMAZ;Sweden;Midfielder
+Isaac THELIN;Sweden;Forward
+Kristoffer NORDFELDT;Sweden;Goalkeeper
+Hugo LLORIS;France;Goalkeeper
+Benjamin PAVARD;France;Defender
+Presnel KIMPEMBE;France;Defender
+Raphael VARANE;France;Defender
+Samuel UMTITI;France;Defender
+Paul POGBA;France;Midfielder
+Antoine GRIEZMANN;France;Forward
+Thomas LEMAR;France;Forward
+Olivier GIROUD;France;Forward
+Kylian MBAPPE;France;Forward
+Ousmane DEMBELE;France;Forward
+Corentin TOLISSO;France;Midfielder
+N Golo KANTE;France;Midfielder
+Blaise MATUIDI;France;Midfielder
+Steven NZONZI;France;Midfielder
+Steve MANDANDA;France;Goalkeeper
+Adil RAMI;France;Defender
+Nabil FEKIR;France;Forward
+Djibril SIDIBE;France;Defender
+Florian THAUVIN;France;Forward
+Lucas HERNANDEZ;France;Defender
+Benjamin MENDY;France;Defender
+Alphonse AREOLA;France;Goalkeeper
+Abdoulaye DIALLO;Senegal;Goalkeeper
+Adama MBENGUE;Senegal;Defender
+Kalidou KOULIBALY;Senegal;Defender
+Kara MBODJI;Senegal;Defender
+Idrissa GUEYE;Senegal;Midfielder
+Salif SANÃ‰;Senegal;Midfielder
+Moussa SOW;Senegal;Forward
+Cheikhou KOUYATE;Senegal;Midfielder
+Mame DIOUF;Senegal;Forward
+Sadio MANE;Senegal;Forward
+Cheikh NDOYE;Senegal;Midfielder
+Youssouf SABALY;Senegal;Defender
+Alfred NDIAYE;Senegal;Midfielder
+Moussa KONATE;Senegal;Forward
+Diafra SAKHO;Senegal;Forward
+Khadim NDIAYE;Senegal;Goalkeeper
+Papa Alioune NDIAYE;Senegal;Midfielder
+Ismaila SARR;Senegal;Forward
+Mbaye NIANG;Senegal;Forward
+Keita BALDE;Senegal;Forward
+Lamine GASSAMA;Senegal;Defender
+Moussa WAGUE;Senegal;Defender
+Alfred GOMIS;Senegal;Goalkeeper
+Dominik LIVAKOVIC;Croatia;Goalkeeper
+Sime VRSALJKO;Croatia;Defender
+Ivan STRINIC;Croatia;Defender
+Ivan PERISIC;Croatia;Forward
+Vedran CORLUKA;Croatia;Defender
+Dejan LOVREN;Croatia;Defender
+Ivan RAKITIC;Croatia;Midfielder
+Mateo KOVACIC;Croatia;Midfielder
+Andrej KRAMARIC;Croatia;Forward
+Luka MODRIC;Croatia;Midfielder
+Marcelo BROZOVIC;Croatia;Midfielder
+Lovre KALINIC;Croatia;Goalkeeper
+Tin JEDVAJ;Croatia;Defender
+Filip BRADARIC;Croatia;Midfielder
+Duje CALETA-CAR;Croatia;Defender
+Nikola KALINIC;Croatia;Forward
+Mario MANDZUKIC;Croatia;Forward
+Ante Rebic;Croatia;Forward
+Milan BADELJ;Croatia;Midfielder
+Marko PJACA;Croatia;Forward
+Domagoj VIDA;Croatia;Defender
+Josip PIVARIC;Croatia;Defender
+Danijel SUBASIC;Croatia;Goalkeeper
+Wojciech SZCZESNY;Poland;Goalkeeper
+Michal PAZDAN;Poland;Defender
+Thiago CIONEK;Poland;Defender
+Jan BEDNAREK;Poland;Defender
+Jacek GORALSKI;Poland;Midfielder
+Arkadiusz MILIK;Poland;Forward
+Karol LINETTY;Poland;Midfielder
+Robert LEWANDOWSKI;Poland;Forward
+Grzegorz KRYCHOWIAK;Poland;Midfielder
+Kamil GROSICKI;Poland;Midfielder
+Bartosz BIALKOWSKI;Poland;Goalkeeper
+Maciej RYBUS;Poland;Midfielder
+Lukasz TEODORCZYK;Poland;Forward
+Kamil GLIK;Poland;Defender
+Jakub BLASZCZYKOWSKI;Poland;Midfielder
+Slawomir PESZKO;Poland;Midfielder
+Bartosz BERESZYNSKI;Poland;Defender
+Piotr ZIELINSKI;Poland;Midfielder
+Lukasz PISZCZEK;Poland;Defender
+Rafal KURZAWA;Poland;Midfielder
+Lukasz FABIANSKI;Poland;Goalkeeper
+Dawid KOWNACKI;Poland;Forward
+ALISSON;Brazil;Goalkeeper
+THIAGO SILVA;Brazil;Defender
+MIRANDA;Brazil;Defender
+PEDRO GEROMEL;Brazil;Defender
+CASEMIRO;Brazil;Midfielder
+FILIPE LUIS;Brazil;Defender
+DOUGLAS COSTA;Brazil;Forward
+RENATO AUGUSTO;Brazil;Midfielder
+GABRIEL JESUS;Brazil;Forward
+NEYMAR;Brazil;Forward
+PHILIPPE COUTINHO;Brazil;Midfielder
+MARCELO;Brazil;Defender
+MARQUINHOS;Brazil;Defender
+DANILO;Brazil;Defender
+PAULINHO;Brazil;Midfielder
+CASSIO;Brazil;Goalkeeper
+FERNANDINHO;Brazil;Midfielder
+Fred;Brazil;Midfielder
+WILLIAN;Brazil;Midfielder
+ROBERTO FIRMINO;Brazil;Forward
+TAISON;Brazil;Forward
+FAGNER;Brazil;Defender
+EDERSON;Brazil;Goalkeeper
+Eiji KAWASHIMA;Japan;Goalkeeper
+Naomichi UEDA;Japan;Defender
+Gen SHOJI;Japan;Defender
+Keisuke HONDA;Japan;Midfielder
+Yuto NAGATOMO;Japan;Defender
+Wataru ENDO;Japan;Defender
+Gaku SHIBASAKI;Japan;Midfielder
+Genki HARAGUCHI;Japan;Midfielder
+Shinji OKAZAKI;Japan;Forward
+Shinji KAGAWA;Japan;Midfielder
+Takashi USAMI;Japan;Midfielder
+Masaaki HIGASHIGUCHI;Japan;Goalkeeper
+Yoshinori MUTO;Japan;Forward
+Takashi INUI;Japan;Midfielder
+Yuya OSAKO;Japan;Forward
+Hotaru YAMAGUCHI;Japan;Midfielder
+Makoto HASEBE;Japan;Midfielder
+Ryota OSHIMA;Japan;Midfielder
+Hiroki SAKAI;Japan;Defender
+Tomoaki MAKINO;Japan;Defender
+Gotoku SAKAI;Japan;Defender
+Maya YOSHIDA;Japan;Defender
+Kosuke NAKAMURA;Japan;Goalkeeper
+David OSPINA;Colombia;Goalkeeper
+Cristian ZAPATA;Colombia;Defender
+Oscar MURILLO;Colombia;Defender
+Santiago ARIAS;Colombia;Defender
+Wilmar BARRIOS;Colombia;Midfielder
+Carlos SANCHEZ;Colombia;Midfielder
+Carlos BACCA;Colombia;Forward
+Abel AGUILAR;Colombia;Midfielder
+FALCAO;Colombia;Forward
+James RODRIGUEZ;Colombia;Midfielder
+Juan CUADRADO;Colombia;Midfielder
+Camilo VARGAS;Colombia;Goalkeeper
+Yerry MINA;Colombia;Defender
+Luis MURIEL;Colombia;Forward
+Mateus URIBE;Colombia;Midfielder
+Jefferson LERMA;Colombia;Midfielder
+Johan MOJICA;Colombia;Defender
+Farid DIAZ;Colombia;Defender
+Miguel BORJA;Colombia;Forward
+Juan QUINTERO;Colombia;Midfielder
+Jose IZQUIERDO;Colombia;Forward
+Jose CUADRADO;Colombia;Goalkeeper
+Davinson SANCHEZ;Colombia;Defender
+David DE GEA;Spain;Goalkeeper
+Dani CARVAJAL;Spain;Defender
+Gerard PIQUE;Spain;Defender
+NACHO;Spain;Defender
+Sergio BUSQUETS;Spain;Midfielder
+Andres INIESTA;Spain;Midfielder
+SAUL;Spain;Midfielder
+KOKE;Spain;Midfielder
+RODRIGO;Spain;Forward
+THIAGO;Spain;Midfielder
+Lucas VAZQUEZ;Spain;Forward
+Alvaro ODRIOZOLA;Spain;Defender
+Kepa ARRIZABALAGA;Spain;Goalkeeper
+Cesar AZPILICUETA;Spain;Defender
+Sergio RAMOS;Spain;Defender
+Nacho MONREAL;Spain;Defender
+IAGO ASPAS;Spain;Forward
+Jordi ALBA;Spain;Defender
+Diego COSTA;Spain;Forward
+Marco ASENSIO;Spain;Midfielder
+David SILVA;Spain;Forward
+ISCO;Spain;Midfielder
+Pepe REINA;Spain;Goalkeeper
+Yann SOMMER;Switzerland;Goalkeeper
+Stephan LICHTSTEINER;Switzerland;Defender
+Francois MOUBANDJE;Switzerland;Defender
+Nico ELVEDI;Switzerland;Defender
+Manuel AKANJI;Switzerland;Defender
+Michael LANG;Switzerland;Defender
+Breel EMBOLO;Switzerland;Forward
+Remo FREULER;Switzerland;Midfielder
+Haris SEFEROVIC;Switzerland;Forward
+Granit XHAKA;Switzerland;Midfielder
+Valon BEHRAMI;Switzerland;Midfielder
+Yvon MVOGO;Switzerland;Goalkeeper
+Ricardo RODRIGUEZ;Switzerland;Defender
+Steven ZUBER;Switzerland;Midfielder
+Blerim DZEMAILI;Switzerland;Midfielder
+Gelson FERNANDES;Switzerland;Midfielder
+Denis ZAKARIA;Switzerland;Midfielder
+Mario GAVRANOVIC;Switzerland;Forward
+Josip DRMIC;Switzerland;Forward
+Johan DJOUROU;Switzerland;Defender
+Roman BUERKI;Switzerland;Goalkeeper
+Fabian SCHAER;Switzerland;Defender
+Xherdan SHAQIRI;Switzerland;Midfielder
+Kasper SCHMEICHEL;Denmark;Goalkeeper
+Michael KROHN-DEHLI;Denmark;Midfielder
+Jannik VESTERGAARD;Denmark;Defender
+Simon KJAER;Denmark;Defender
+Jonas KNUDSEN;Denmark;Defender
+Andreas CHRISTENSEN;Denmark;Defender
+William KVIST;Denmark;Midfielder
+Thomas DELANEY;Denmark;Midfielder
+Nicolai JORGENSEN;Denmark;Forward
+Christian ERIKSEN;Denmark;Midfielder
+Martin BRAITHWAITE;Denmark;Forward
+Kasper DOLBERG;Denmark;Forward
+Mathias JORGENSEN;Denmark;Defender
+Henrik DALSGAARD;Denmark;Defender
+Viktor FISCHER;Denmark;Forward
+Jonas LOSSL;Denmark;Goalkeeper
+Jens LARSEN;Denmark;Defender
+Lukas LERAGER;Denmark;Midfielder
+Lasse SCHONE;Denmark;Midfielder
+Yussuf POULSEN;Denmark;Forward
+Andreas CORNELIUS;Denmark;Forward
+Frederik RONNOW;Denmark;Goalkeeper
+Sisto EMIRMIJA;Denmark;Forward
+Jaime PENEDO;Panama;Goalkeeper
+Michael MURILLO;Panama;Defender
+Harold CUMMINGS;Panama;Defender
+Fidel ESCOBAR;Panama;Defender
+Roman TORRES;Panama;Defender
+Gabriel GOMEZ;Panama;Midfielder
+Blas PEREZ;Panama;Forward
+Edgar BARCENAS;Panama;Midfielder
+Gabriel TORRES;Panama;Forward
+Ismael DIAZ;Panama;Forward
+Armando COOPER;Panama;Midfielder
+Jose CALDERON;Panama;Goalkeeper
+Adolfo MACHADO;Panama;Defender
+Valentin PIMENTEL;Panama;Midfielder
+Eric DAVIS;Panama;Defender
+Abdiel ARROYO;Panama;Forward
+Luis OVALLE;Panama;Defender
+Luis TEJADA;Panama;Forward
+Ricardo AVILA;Panama;Midfielder
+Anibal GODOY;Panama;Midfielder
+Jose Luis RODRIGUEZ;Panama;Midfielder
+Alex RODRIGUEZ;Panama;Goalkeeper
+Felipe BALOY;Panama;Defender
+Farouk BEN MUSTAPHA;Tunisia;Goalkeeper
+Syam BEN YOUSSEF;Tunisia;Defender
+Yohan BEN ALOUANE;Tunisia;Defender
+Yassine MERIAH;Tunisia;Defender
+Oussama HADDADI;Tunisia;Defender
+Rami BEDOUI;Tunisia;Defender
+Saifeddine KHAOUI;Tunisia;Forward
+Fakhreddine BEN YOUSSEF;Tunisia;Forward
+Anice BADRI;Tunisia;Midfielder
+Wahbi KHAZRI;Tunisia;Forward
+Dylan BRONN;Tunisia;Defender
+Ali MAALOUL;Tunisia;Defender
+Fertani SASSI;Tunisia;Midfielder
+Mohamed AMIN BEN AMOR;Tunisia;Midfielder
+Ahmed KHALIL;Tunisia;Forward
+Aymen MATHLOUTHI;Tunisia;Goalkeeper
+Ellyes SKHIRI;Tunisia;Midfielder
+Bassem SRARFI;Tunisia;Forward
+Saber Khlifa;Tunisia;Forward
+Ghaylen CHAALELI;Tunisia;Forward
+Hamdi NAGGUEZ;Tunisia;Defender
+Mouez HASSEN;Tunisia;Goalkeeper
+Naim SLITI;Tunisia;Forward
+Fernando MUSLERA;Uruguay;Goalkeeper
+Jose GIMENEZ;Uruguay;Defender
+Diego GODIN;Uruguay;Defender
+Guillermo VARELA;Uruguay;Defender
+Carlos SANCHEZ;Uruguay;Midfielder
+Rodrigo BENTANCUR;Uruguay;Midfielder
+Cristian RODRIGUEZ;Uruguay;Midfielder
+Nahitan NANDEZ;Uruguay;Midfielder
+Luis SUAREZ;Uruguay;Forward
+Giorgian DE ARRASCAETA;Uruguay;Forward
+Cristhian STUANI;Uruguay;Forward
+Martin CAMPANA;Uruguay;Goalkeeper
+Gaston SILVA;Uruguay;Defender
+Lucas TORREIRA;Uruguay;Midfielder
+Matias VECINO;Uruguay;Midfielder
+Maximiliano PEREIRA;Uruguay;Defender
+Diego LAXALT;Uruguay;Midfielder
+Maximiliano GOMEZ;Uruguay;Forward
+Sebastian COATES;Uruguay;Defender
+Jonathan URRETAVISCAYA;Uruguay;Forward
+Edinson CAVANI;Uruguay;Forward
+Martin CACERES;Uruguay;Defender
+Martin SILVA;Uruguay;Goalkeeper
+RUI PATRICIO;Portugal;Goalkeeper
+BRUNO ALVES;Portugal;Defender
+PEPE;Portugal;Defender
+MANUEL FERNANDES;Portugal;Midfielder
+RAPHAEL GUERREIRO;Portugal;Defender
+JOSE FONTE;Portugal;Defender
+CRISTIANO RONALDO;Portugal;Forward
+JOAO MOUTINHO;Portugal;Midfielder
+ANDRE SILVA;Portugal;Forward
+JOAO MARIO;Portugal;Midfielder
+BERNARDO SILVA;Portugal;Midfielder
+ANTHONY LOPES;Portugal;Goalkeeper
+RUBEN DIAS;Portugal;Defender
+WILLIAM;Portugal;Midfielder
+Ricardo PEREIRA;Portugal;Defender
+BRUNO FERNANDES;Portugal;Midfielder
+GonÃ§alo GUEDES;Portugal;Forward
+GELSON MARTINS;Portugal;Forward
+MARIO RUI;Portugal;Defender
+RICARDO QUARESMA;Portugal;Forward
+CEDRIC;Portugal;Defender
+BETO;Portugal;Goalkeeper
+ADRIEN SILVA;Portugal;Midfielder
+Maty RYAN;Australia;Goalkeeper
+Milos DEGENEK;Australia;Defender
+James MEREDITH;Australia;Defender
+Tim CAHILL;Australia;Forward
+Mark MILLIGAN;Australia;Defender
+Matthew JURMAN;Australia;Defender
+Mathew LECKIE;Australia;Forward
+Massimo LUONGO;Australia;Midfielder
+Tomi JURIC;Australia;Forward
+Robbie KRUSE;Australia;Forward
+Andrew NABBOUT;Australia;Forward
+Brad JONES;Australia;Goalkeeper
+Aaron MOOY;Australia;Midfielder
+Jamie MacLAREN;Australia;Forward
+Mile JEDINAK;Australia;Midfielder
+Aziz BEHICH;Australia;Defender
+Daniel ARZANI;Australia;Forward
+Danny VUKOVIC;Australia;Goalkeeper
+Joshua RISDON;Australia;Defender
+Trent SAINSBURY;Australia;Defender
+Dimitrios PETRATOS;Australia;Forward
+Jackson IRVINE;Australia;Midfielder
+Tommy ROGIC;Australia;Midfielder
+Manuel NEUER;Germany;Goalkeeper
+Marvin PLATTENHARDT;Germany;Defender
+Jonas HECTOR;Germany;Defender
+Matthias GINTER;Germany;Defender
+Mats HUMMELS;Germany;Defender
+Sami KHEDIRA;Germany;Midfielder
+Julian DRAXLER;Germany;Midfielder
+Toni KROOS;Germany;Midfielder
+Timo WERNER;Germany;Forward
+Mesut OEZIL;Germany;Midfielder
+Marco REUS;Germany;Forward
+Kevin TRAPP;Germany;Goalkeeper
+Thomas MUELLER;Germany;Midfielder
+Leon GORETZKA;Germany;Midfielder
+Niklas SUELE;Germany;Defender
+Antonio RUEDIGER;Germany;Defender
+Jerome BOATENG;Germany;Defender
+Joshua KIMMICH;Germany;Defender
+Sebastian RUDY;Germany;Midfielder
+Julian BRANDT;Germany;Midfielder
+Ilkay GUNDOGAN;Germany;Midfielder
+Marc-Andre TER STEGEN;Germany;Goalkeeper
+Mario GOMEZ;Germany;Forward
+Keylor NAVAS;Costa Rica;Goalkeeper
+Johnny ACOSTA;Costa Rica;Defender
+Giancarlo GONZALEZ;Costa Rica;Defender
+Ian SMITH;Costa Rica;Defender
+Celso BORGES;Costa Rica;Midfielder
+Oscar DUARTE;Costa Rica;Defender
+Christian BOLANOS;Costa Rica;Midfielder
+Bryan OVIEDO;Costa Rica;Defender
+Daniel COLINDRES;Costa Rica;Midfielder
+Bryan RUIZ;Costa Rica;Midfielder
+Johan VENEGAS;Costa Rica;Forward
+Joel CAMPBELL;Costa Rica;Forward
+Rodney WALLACE;Costa Rica;Midfielder
+Randall AZOFEIFA;Costa Rica;Midfielder
+Francisco CALVO;Costa Rica;Defender
+Cristian GAMBOA;Costa Rica;Defender
+Yeltsin TEJEDA;Costa Rica;Midfielder
+Patrick PEMBERTON;Costa Rica;Goalkeeper
+Kendall WASTON;Costa Rica;Defender
+David GUZMAN;Costa Rica;Midfielder
+Marcos URENA;Costa Rica;Forward
+Kenner GUTIERREZ;Costa Rica;Defender
+Leonel MOREIRA;Costa Rica;Goalkeeper
+Vladimir STOJKOVIC;Serbia;Goalkeeper
+Antonio RUKAVINA;Serbia;Defender
+Dusko TOSIC;Serbia;Defender
+Luka MILIVOJEVIC;Serbia;Midfielder
+Uros SPAJIC;Serbia;Defender
+Branislav IVANOVIC;Serbia;Defender
+Andrija ZIVKOVIC;Serbia;Midfielder
+Aleksandar PRIJOVIC;Serbia;Forward
+Aleksandar MITROVIC;Serbia;Forward
+Dusan TADIC;Serbia;Midfielder
+Aleksandar KOLAROV;Serbia;Defender
+Predrag RAJKOVIC;Serbia;Goalkeeper
+Milos VELJKOVIC;Serbia;Defender
+Milan RODIC;Serbia;Defender
+Nikola MILENKOVIC;Serbia;Defender
+Marko GRUJIC;Serbia;Midfielder
+Filip KOSTIC;Serbia;Midfielder
+Nemanja RADONJIC;Serbia;Forward
+Luka JOVIC;Serbia;Forward
+Sergej MILINKOVIC-SAVIC;Serbia;Midfielder
+Nemanja MATIC;Serbia;Midfielder
+Adem Ljajic;Serbia;Midfielder
+Marko DMITROVIC;Serbia;Goalkeeper
+Hannes HALLDORSSON;Iceland;Goalkeeper
+Birkir SAEVARSSON;Iceland;Defender
+Samuel FRIDJONSSON;Iceland;Midfielder
+Albert GUDMUNDSSON;Iceland;Midfielder
+Sverrir INGASON;Iceland;Defender
+Ragnar SIGURDSSON;Iceland;Defender
+Johann GUDMUNDSSON;Iceland;Midfielder
+Birkir BJARNASON;Iceland;Midfielder
+Bjorn SIGURDARSON;Iceland;Forward
+Gylfi SIGURDSSON;Iceland;Midfielder
+Alfred FINNBOGASON;Iceland;Forward
+Frederik SCHRAM;Iceland;Goalkeeper
+Runar RUNARSSON;Iceland;Goalkeeper
+Kari ARNASON;Iceland;Defender
+Holmar EYJOLFSSON;Iceland;Defender
+Olafur SKULASON;Iceland;Midfielder
+Aron GUNNARSSON;Iceland;Midfielder
+Hordur MAGNUSSON;Iceland;Defender
+Rurik GISLASON;Iceland;Midfielder
+Emil HALLFREDSSON;Iceland;Midfielder
+Arnor TRAUSTASON;Iceland;Midfielder
+Jon BODVARSSON;Iceland;Forward
+Ari SKULASON;Iceland;Defender
+Jordan PICKFORD;England;Goalkeeper
+Kyle WALKER;England;Defender
+Danny ROSE;England;Defender
+Eric DIER;England;Midfielder
+John STONES;England;Defender
+Harry MAGUIRE;England;Defender
+Jesse LINGARD;England;Midfielder
+Jordan HENDERSON;England;Midfielder
+Harry KANE;England;Forward
+Raheem STERLING;England;Forward
+Jamie VARDY;England;Forward
+Kieran TRIPPIER;England;Defender
+Jack BUTLAND;England;Goalkeeper
+Danny Welbeck;England;Forward
+Gary CAHILL;England;Defender
+Phil JONES;England;Defender
+Fabian DELPH;England;Defender
+Ashley YOUNG;England;Defender
+Marcus RASHFORD;England;Forward
+Dele ALLI;England;Midfielder
+Ruben LOFTUS-CHEEK;England;Midfielder
+Trent ALEXANDER-ARNOLD;England;Defender
+Nick POPE;England;Goalkeeper
+Ikechukwu EZENWA;Nigeria;Goalkeeper
+Bryan IDOWU;Nigeria;Defender
+Elderson ECHIEJILE;Nigeria;Defender
+Onyinye NDIDI;Nigeria;Midfielder
+William EKONG;Nigeria;Defender
+Leon BALOGUN;Nigeria;Defender
+Ahmed MUSA;Nigeria;Forward
+Oghenekaro ETEBO;Nigeria;Midfielder
+Odion IGHALO;Nigeria;Forward
+John Obi MIKEL;Nigeria;Midfielder
+Victor MOSES;Nigeria;Forward
+Abdullahi SHEHU;Nigeria;Defender
+Simeon NWANKWO;Nigeria;Forward
+Kelechi IHEANACHO;Nigeria;Forward
+Daniel AKPEYI;Nigeria;Goalkeeper
+Ogenyi ONAZI;Nigeria;Midfielder
+Alexander IWOBI;Nigeria;Forward
+John OGU;Nigeria;Midfielder
+Chidozie AWAZIEM;Nigeria;Defender
+Tyronne EBUEHI;Nigeria;Defender
+Kenneth OMERUO;Nigeria;Defender
+Francis UZOHO;Nigeria;Goalkeeper
+Nahuel GUZMAN;Argentina;Goalkeeper
+Gabriel MERCADO;Argentina;Defender
+Nicolas TAGLIAFICO;Argentina;Defender
+Cristian ANSALDI;Argentina;Defender
+Lucas BIGLIA;Argentina;Midfielder
+Federico FAZIO;Argentina;Defender
+Ever BANEGA;Argentina;Midfielder
+Marcos ACUNA;Argentina;Defender
+Gonzalo HIGUAIN;Argentina;Forward
+Lionel MESSI;Argentina;Forward
+Angel DI MARIA;Argentina;Midfielder
+Franco ARMANI;Argentina;Goalkeeper
+Maximiliano MEZA;Argentina;Midfielder
+Javier MASCHERANO;Argentina;Defender
+Enzo PEREZ;Argentina;Midfielder
+Marcos ROJO;Argentina;Defender
+Nicolas OTAMENDI;Argentina;Defender
+Eduardo Salvio;Argentina;Defender
+Sergio AGUERO;Argentina;Forward
+Giovani LO CELSO;Argentina;Midfielder
+Paulo DYBALA;Argentina;Forward
+Cristian PAVON;Argentina;Midfielder
+Wilfredo CABALLERO;Argentina;Goalkeeper
+KIM Seunggyu;Korea Republic;Goalkeeper
+LEE Yong;Korea Republic;Defender
+JUNG Seunghyun;Korea Republic;Defender
+OH Bansuk;Korea Republic;Defender
+YUN Youngsun;Korea Republic;Defender
+PARK Jooho;Korea Republic;Defender
+SON Heungmin;Korea Republic;Forward
+JU Sejong;Korea Republic;Midfielder
+KIM Shinwook;Korea Republic;Forward
+LEE Seungwoo;Korea Republic;Midfielder
+HWANG Heechan;Korea Republic;Forward
+KIM Minwoo;Korea Republic;Defender
+KOO Jacheol;Korea Republic;Midfielder
+HONG Chul;Korea Republic;Defender
+JUNG Wooyoung;Korea Republic;Midfielder
+KI Sungyueng;Korea Republic;Midfielder
+LEE Jaesung;Korea Republic;Midfielder
+MOON Seonmin;Korea Republic;Midfielder
+KIM Younggwon;Korea Republic;Defender
+JANG Hyunsoo;Korea Republic;Defender
+KIM Jin Hyeon;Korea Republic;Goalkeeper
+GO Yohan;Korea Republic;Defender
+JO Hyeonwoo;Korea Republic;Goalkeeper
+Igor AKINFEEV;Russia;Goalkeeper
+MARIO FERNANDES;Russia;Defender
+Ilya KUTEPOV;Russia;Defender
+Sergey IGNASHEVICH;Russia;Defender
+Andrey SEMENOV;Russia;Defender
+Denis CHERYSHEV;Russia;Midfielder
+Daler KUZIAEV;Russia;Midfielder
+Iury GAZINSKY;Russia;Midfielder
+Alan Dzagoev;Russia;Midfielder
+Fedor Smolov;Russia;Forward
+Roman ZOBNIN;Russia;Midfielder
+Andrei LUNEV;Russia;Goalkeeper
+Fedor KUDRIASHOV;Russia;Defender
+Vladimir GRANAT;Russia;Defender
+Aleksey Miranchuk;Russia;Midfielder
+Anton MIRANCHUK;Russia;Midfielder
+Aleksandr GOLOVIN;Russia;Midfielder
+Yuri Zhirkov;Russia;Midfielder
+Aleksandr SAMEDOV;Russia;Midfielder
+Vladimir GABULOV;Russia;Goalkeeper
+Aleksandr EROKHIN;Russia;Midfielder
+Artem DZYUBA;Russia;Forward
+Igor SMOLNIKOV;Russia;Defender
+Thibaut COURTOIS;Belgium;Goalkeeper
+Toby ALDERWEIRELD;Belgium;Defender
+Thomas VERMAELEN;Belgium;Defender
+Vincent KOMPANY;Belgium;Defender
+Jan VERTONGHEN;Belgium;Defender
+Axel WITSEL;Belgium;Midfielder
+Kevin DE BRUYNE;Belgium;Midfielder
+Marouane FELLAINI;Belgium;Midfielder
+Romelu LUKAKU;Belgium;Forward
+Eden HAZARD;Belgium;Forward
+Yannick CARRASCO;Belgium;Midfielder
+Simon MIGNOLET;Belgium;Goalkeeper
+Koen CASTEELS;Belgium;Goalkeeper
+Dries MERTENS;Belgium;Forward
+Thomas MEUNIER;Belgium;Defender
+Thorgan HAZARD;Belgium;Midfielder
+Youri TIELEMANS;Belgium;Midfielder
+Adnan JANUZAJ;Belgium;Forward
+Moussa DEMBELE;Belgium;Midfielder
+Dedryck Boyata;Belgium;Defender
+Michy BATSHUAYI;Belgium;Forward
+Nacer CHADLI;Belgium;Midfielder
+Leander DENDONCKER;Belgium;Defender

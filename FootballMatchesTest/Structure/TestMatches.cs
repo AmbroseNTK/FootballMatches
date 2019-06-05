@@ -11,7 +11,7 @@ namespace FootballMatchesTest.Structure
     public class TestMatches
     {
         private Match match;
-        private int maximumNumOfTeam = 2;
+        private int maximumNumOfTeam = 3;
         public TestMatches()
         {
             match = new Match();

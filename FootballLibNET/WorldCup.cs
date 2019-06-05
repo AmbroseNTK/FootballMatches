@@ -14,7 +14,7 @@ namespace FootballLib
         public List<Team> TeamList {
             get
             {
-                return TeamProvider.Provide();
+                return TeamProvider.TeamProvide();
             }
         }
         public Team Championship
@@ -27,6 +27,10 @@ namespace FootballLib
 
         private Team championship;
         
+        public WorldCup()
+        {
+            RoundList = new List<Rounds.Round>();
+        }
 
         public void Play()
         {

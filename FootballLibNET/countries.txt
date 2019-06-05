@@ -8,9 +8,9 @@ AM;Armenia;Asia
 AO;Angola;Africa
 AQ;Antarctica;
 AR;Argentina;SouthAmerica
-AS;American Samoa;Oceanic
+AS;American Samoa;Oceania
 AT;Austria;Europe
-AU;Australia;Oceanic
+AU;Australia;Asia
 AW;Aruba;NorthAmerica
 AX;Åland;Europe
 AZ;Azerbaijan;Asia
@@ -42,7 +42,7 @@ CF;Central African Republic;Africa
 CG;Republic of the Congo;Africa
 CH;Switzerland;Europe
 CI;Ivory Coast;Africa
-CK;Cook Islands;Oceanic
+CK;Cook Islands;Oceania
 CL;Chile;SouthAmerica
 CM;Cameroon;Africa
 CN;China;Asia
@@ -68,13 +68,13 @@ ER;Eritrea;Africa
 ES;Spain;Europe
 ET;Ethiopia;Africa
 FI;Finland;Europe
-FJ;Fiji;Oceanic
+FJ;Fiji;Oceania
 FK;Falkland Islands;SouthAmerica
-FM;Micronesia;Oceanic
+FM;Micronesia;Oceania
 FO;Faroe Islands;Europe
 FR;France;Europe
 GA;Gabon;Africa
-GB;United Kingdom;Europe
+GB;England;Europe
 GD;Grenada;NorthAmerica
 GE;Georgia;Asia
 GF;French Guiana;SouthAmerica
@@ -89,7 +89,7 @@ GQ;Equatorial Guinea;Africa
 GR;Greece;Europe
 GS;South Georgia and the South Sandwich Islands;
 GT;Guatemala;NorthAmerica
-GU;Guam;Oceanic
+GU;Guam;Oceania
 GW;Guinea-Bissau;Africa
 GY;Guyana;SouthAmerica
 HK;Hong Kong;Asia
@@ -115,11 +115,11 @@ JP;Japan;Asia
 KE;Kenya;Africa
 KG;Kyrgyzstan;Asia
 KH;Cambodia;Asia
-KI;Kiribati;Oceanic
+KI;Kiribati;Oceania
 KM;Comoros;Africa
 KN;Saint Kitts and Nevis;NorthAmerica
 KP;North Korea;Asia
-KR;South Korea;Asia
+KR;Korea Republic;Asia
 KW;Kuwait;Asia
 KY;Cayman Islands;NorthAmerica
 KZ;Kazakhstan;Asia
@@ -140,13 +140,13 @@ MD;Moldova;Europe
 ME;Montenegro;Europe
 MF;Saint Martin;NorthAmerica
 MG;Madagascar;Africa
-MH;Marshall Islands;Oceanic
+MH;Marshall Islands;Oceania
 MK;Macedonia;Europe
 ML;Mali;Africa
 MM;Myanmar [Burma];Asia
 MN;Mongolia;Asia
 MO;Macao;Asia
-MP;Northern Mariana Islands;Oceanic
+MP;Northern Mariana Islands;Oceania
 MQ;Martinique;NorthAmerica
 MR;Mauritania;Africa
 MS;Montserrat;NorthAmerica
@@ -158,31 +158,31 @@ MX;Mexico;NorthAmerica
 MY;Malaysia;Asia
 MZ;Mozambique;Africa
 NA;Namibia;Africa
-NC;New Caledonia;Oceanic
+NC;New Caledonia;Oceania
 NE;Niger;Africa
-NF;Norfolk Island;Oceanic
+NF;Norfolk Island;Oceania
 NG;Nigeria;Africa
 NI;Nicaragua;NorthAmerica
 NL;Netherlands;Europe
 NO;Norway;Europe
 NP;Nepal;Asia
-NR;Nauru;Oceanic
-NU;Niue;Oceanic
-NZ;New Zealand;Oceanic
+NR;Nauru;Oceania
+NU;Niue;Oceania
+NZ;New Zealand;Oceania
 OM;Oman;Asia
 PA;Panama;NorthAmerica
 PE;Peru;SouthAmerica
-PF;French Polynesia;Oceanic
-PG;Papua New Guinea;Oceanic
+PF;French Polynesia;Oceania
+PG;Papua New Guinea;Oceania
 PH;Philippines;Asia
 PK;Pakistan;Asia
 PL;Poland;Europe
 PM;Saint Pierre and Miquelon;NorthAmerica
-PN;Pitcairn Islands;Oceanic
+PN;Pitcairn Islands;Oceania
 PR;Puerto Rico;NorthAmerica
 PS;Palestine;Asia
 PT;Portugal;Europe
-PW;Palau;Oceanic
+PW;Palau;Oceania
 PY;Paraguay;SouthAmerica
 QA;Qatar;Asia
 RE;Réunion;Africa
@@ -191,7 +191,7 @@ RS;Serbia;Europe
 RU;Russia;Europe
 RW;Rwanda;Africa
 SA;Saudi Arabia;Asia
-SB;Solomon Islands;Oceanic
+SB;Solomon Islands;Oceania
 SC;Seychelles;Africa
 SD;Sudan;Africa
 SE;Sweden;Europe
@@ -217,19 +217,19 @@ TF;French Southern Territories;
 TG;Togo;Africa
 TH;Thailand;Asia
 TJ;Tajikistan;Asia
-TK;Tokelau;Oceanic
-TL;East Timor;Oceanic
+TK;Tokelau;Oceania
+TL;East Timor;Oceania
 TM;Turkmenistan;Asia
 TN;Tunisia;Africa
-TO;Tonga;Oceanic
+TO;Tonga;Oceania
 TR;Turkey;Asia
 TT;Trinidad and Tobago;NorthAmerica
-TV;Tuvalu;Oceanic
+TV;Tuvalu;Oceania
 TW;Taiwan;Asia
 TZ;Tanzania;Africa
 UA;Ukraine;Europe
 UG;Uganda;Africa
-UM;U.S. Minor Outlying Islands;Oceanic
+UM;U.S. Minor Outlying Islands;Oceania
 US;United States;NorthAmerica
 UY;Uruguay;SouthAmerica
 UZ;Uzbekistan;Asia
@@ -239,9 +239,9 @@ VE;Venezuela;SouthAmerica
 VG;British Virgin Islands;NorthAmerica
 VI;U.S. Virgin Islands;NorthAmerica
 VN;Vietnam;Asia
-VU;Vanuatu;Oceanic
-WF;Wallis and Futuna;Oceanic
-WS;Samoa;Oceanic
+VU;Vanuatu;Oceania
+WF;Wallis and Futuna;Oceania
+WS;Samoa;Oceania
 XK;Kosovo;Europe
 YE;Yemen;Asia
 YT;Mayotte;Africa

@@ -21,7 +21,8 @@ namespace FootballLib.Rounds
                     Location = new Location()
                 }
             };
-            return new List<Team>() { rand.Next(0, 2) == 0 ? MatchList[0].TeamA : MatchList[0].TeamB };
+            MatchList[0].Play(rand);
+            return new List<Team>() { MatchList[0].Winner };
         }
     }
 }

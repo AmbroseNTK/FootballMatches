@@ -16,7 +16,8 @@ namespace FootballLib.Rounds
             CreateMatches();
             foreach(Match match in MatchList)
             {
-                result.Add(rand.Next(0, 2) == 0 ? match.TeamA : match.TeamB);
+                match.Play(rand);
+                result.Add(match.Winner);
             }
             return result;
         }

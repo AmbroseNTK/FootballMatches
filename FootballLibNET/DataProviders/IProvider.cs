@@ -6,6 +6,6 @@ namespace FootballLib.DataProviders
 {
     public interface IProvider
     {
-        List<Team> Provide();
+        List<Team> TeamProvide();
     }
 }

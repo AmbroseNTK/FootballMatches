@@ -16,26 +16,29 @@ namespace FootballLib.Rounds
             List<Team> roundResult = new List<Team>();
             DividedIntoGroup();
             List<Match> matchesInGroup = new List<Match>();
-            bool isWon = false;
+           
             foreach (string groupID in groups)
             {
                 matchesInGroup = MatchList.Where(match => match.Tag == groupID).ToList();
                 foreach(Match match in matchesInGroup)
                 {
-                    isWon = rand.Next(0, 2) == 0 ? false : true;
-                    if (isWon)
-                    {
-                        match.TeamA.TotalScore += 1;
-                    }
-                    else
-                    {
-                        match.TeamB.TotalScore += 1;
-                    }
+                    match.Play(rand);
                 }
-                roundResult.Add(GetHighestScoreTeam(CalculateTotalScore(matchesInGroup)));
+                // Create 3rd match
+                Match final = new Match()
+                {
+                    TeamA = matchesInGroup[0].Winner,
+                    TeamB = matchesInGroup[1].Winner,
+                    Date = DateTime.Now,
+                    Location = new Location(),
+                    Tag = groupID
+                };
+                final.Play(rand);
+                roundResult.Add(final.Winner);
             }
             return roundResult;
         }
+
 
         public List<Team> CalculateTotalScore(List<Match> matches)
         {
@@ -95,22 +98,23 @@ namespace FootballLib.Rounds
                     tempList.RemoveAt(selection);
                 }
                 // Create matches for a group
-                for(int i = 0; i < 4; i++)
+
+                while (group.Count > 1)
                 {
-                    for(int j = 0; j < 4; j++)
+                    int selectID = rand.Next(0, group.Count);
+                    Team teamA = group[selectID];
+                    group.RemoveAt(selectID);
+                    selectID = rand.Next(0, group.Count);
+                    Team teamB = group[selectID];
+                    group.RemoveAt(selectID);
+                    MatchList.Add(new Match()
                     {
-                        if (i != j)
-                        {
-                            MatchList.Add(new Match()
-                            {
-                                TeamA = group[i],
-                                TeamB = group[j],
-                                Location = new Location(),
-                                Date = DateTime.Now,
-                                Tag = groupID
-                            });
-                        }
-                    }
+                        TeamA = teamA,
+                        TeamB = teamB,
+                        Location = new Location(),
+                        Date = DateTime.Now,
+                        Tag = groupID
+                    });
                 }
             }
         }
