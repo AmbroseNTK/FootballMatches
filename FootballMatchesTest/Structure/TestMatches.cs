@@ -51,5 +51,13 @@ namespace FootballMatchesTest.Structure
             PropertyInfo[] result = GetProperties(match, typeof(Location));
             Assert.AreEqual(1, result.Length);
         }
+        [TestMethod]
+        public void GetWinTeam()
+        {
+            Team a = new Team() { Name = "A", TotalScore = 9 };
+            Team b = new Team() { Name = "B", TotalScore = 7 };
+            Match match = new Match() { TeamA = a, TeamB = b };
+            Assert.AreEqual(a, match.Winner);
+        }
     }
 }
