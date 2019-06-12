@@ -34,7 +34,7 @@ namespace FootballLib
                 BScore = winScore;
                 AScore = winScore;
             }
-            else
+            else if (status == 2)
             {
                 TeamA.TotalScore += 1;
                 TeamB.TotalScore += 1;
@@ -63,6 +63,10 @@ namespace FootballLib
                 score -= s;
             }
         }
-        
+        public override string ToString()
+        {
+            return TeamA + " vs " + TeamB;
+        }
+
     }
 }

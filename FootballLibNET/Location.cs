@@ -7,5 +7,9 @@ namespace FootballLib
     public class Location
     {
         public string Address { get; set; }
+        public override string ToString()
+        {
+            return Address;
+        }
     }
 }

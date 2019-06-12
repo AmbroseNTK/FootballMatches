@@ -48,7 +48,7 @@ namespace FootballMatchesTest.Business
             foreach (string groupID in groups)
             {
                 matches = playOff.MatchList.Where(match => match.Tag == groupID).ToList();
-                if (matches.Count != 2)
+                if (matches.Count != 6)
                 {
                     Assert.Fail("Group " + groupID + " has " + matches.Count + " match(es)");
                 }

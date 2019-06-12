@@ -12,6 +12,11 @@ namespace FootballLib
         public int TotalScore { get; set; }
 
         public List<Player> PlayerList { get; set; }
-        
+
+        public override string ToString()
+        {
+            return Name;
+        }
+
     }
 }

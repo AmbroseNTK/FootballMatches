@@ -24,17 +24,10 @@ namespace FootballLib.Rounds
                 {
                     match.Play(rand);
                 }
-                // Create 3rd match
-                Match final = new Match()
-                {
-                    TeamA = matchesInGroup[0].Winner,
-                    TeamB = matchesInGroup[1].Winner,
-                    Date = DateTime.Now,
-                    Location = new Location(),
-                    Tag = groupID
-                };
-                final.Play(rand);
-                roundResult.Add(final.Winner);
+
+                List<Team> scored = CalculateTotalScore(matchesInGroup);
+                roundResult.Add(scored.Where(t => t.TotalScore == scored.Max(t1 => t1.TotalScore)).ToList()[0]);
+                
             }
             return roundResult;
         }
@@ -43,35 +36,14 @@ namespace FootballLib.Rounds
         public List<Team> CalculateTotalScore(List<Match> matches)
         {
             List<Team> result = new List<Team>();
-            List<string> codes = new List<string>();
-            List<Match> matchesOfThisTeam = new List<Match>();
-            List<Team> twoTeam = new List<Team>();
             foreach(Match match in matches)
             {
-                twoTeam = new List<Team>() { match.TeamA, match.TeamB };
-                foreach (Team selectedTeam in twoTeam)
-                {
-                    if (!codes.Contains(selectedTeam.Code))
-                    {
-                        int total = 0;
-                        matchesOfThisTeam = matches.Where(m => m.TeamA.Code == selectedTeam.Code || m.TeamB.Code == selectedTeam.Code).ToList();
-                        foreach (Match m in matchesOfThisTeam)
-                        {
-                            if (m.TeamA.Code == selectedTeam.Code)
-                            {
-                                total += m.TeamA.TotalScore;
-                            }
-                            else
-                            {
-                                total += m.TeamB.TotalScore;
-                            }
-                        }
-                        codes.Add(selectedTeam.Code);
-                        selectedTeam.TotalScore = total;
-                        result.Add(selectedTeam);
-                    }
-                }
+                result.Add(match.TeamA);
+                result.Add(match.TeamB);
             }
+            var groups = result.GroupBy(team => team.Code).Select(team => team.Sum(t => t.TotalScore));
+            
+            
             return result;
         }
 
@@ -87,11 +59,11 @@ namespace FootballLib.Rounds
             List<Team> group = new List<Team>();
 
             int selection = 0;
-            foreach(string groupID in groups)
+            foreach (string groupID in groups)
             {
                 group = new List<Team>();
                 //Set 4 team for 1 group
-                for(int i = 0; i < 4; i++)
+                for (int i = 0; i < 4; i++)
                 {
                     selection = rand.Next(0, tempList.Count - 1);
                     group.Add(tempList[selection]);
@@ -99,18 +71,15 @@ namespace FootballLib.Rounds
                 }
                 // Create matches for a group
 
-                while (group.Count > 1)
+                int[] listA = { 0, 0, 0, 3, 3, 1 };
+                int[] listB = { 1, 2, 3, 1, 2, 2 };
+
+                for (int i = 0; i < listA.Length; i++)
                 {
-                    int selectID = rand.Next(0, group.Count);
-                    Team teamA = group[selectID];
-                    group.RemoveAt(selectID);
-                    selectID = rand.Next(0, group.Count);
-                    Team teamB = group[selectID];
-                    group.RemoveAt(selectID);
                     MatchList.Add(new Match()
                     {
-                        TeamA = teamA,
-                        TeamB = teamB,
+                        TeamA = group[listA[i]],
+                        TeamB = group[listB[i]],
                         Location = new Location(),
                         Date = DateTime.Now,
                         Tag = groupID
